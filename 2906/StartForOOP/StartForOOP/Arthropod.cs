@@ -13,6 +13,7 @@ namespace StartForOOP
 
         protected Arthropod(int age) : base(age)
         {
+            _hasPoison = false;
         }
 
         public virtual bool IsDangerous()

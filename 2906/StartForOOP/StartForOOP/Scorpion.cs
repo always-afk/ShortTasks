@@ -15,6 +15,10 @@ namespace StartForOOP
             HasTale = true;
         }
 
+        public override bool IsDangerous()
+        {
+            return base.IsDangerous() || HasTale;
+        }
         public override void Move()
         {
             Console.WriteLine("Scorpion move");

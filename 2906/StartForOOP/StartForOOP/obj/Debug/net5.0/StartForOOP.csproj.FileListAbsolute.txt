@@ -1,0 +1,16 @@
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\bin\Debug\net5.0\StartForOOP.exe
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\bin\Debug\net5.0\StartForOOP.deps.json
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\bin\Debug\net5.0\StartForOOP.runtimeconfig.json
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\bin\Debug\net5.0\StartForOOP.runtimeconfig.dev.json
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\bin\Debug\net5.0\StartForOOP.dll
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\bin\Debug\net5.0\ref\StartForOOP.dll
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\bin\Debug\net5.0\StartForOOP.pdb
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\obj\Debug\net5.0\StartForOOP.csproj.AssemblyReference.cache
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\obj\Debug\net5.0\StartForOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\obj\Debug\net5.0\StartForOOP.AssemblyInfoInputs.cache
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\obj\Debug\net5.0\StartForOOP.AssemblyInfo.cs
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\obj\Debug\net5.0\StartForOOP.csproj.CoreCompileInputs.cache
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\obj\Debug\net5.0\StartForOOP.dll
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\obj\Debug\net5.0\ref\StartForOOP.dll
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\obj\Debug\net5.0\StartForOOP.pdb
+E:\Artyom\Studing\TMS\ShortTasks\2906\StartForOOP\StartForOOP\obj\Debug\net5.0\StartForOOP.genruntimeconfig.cache

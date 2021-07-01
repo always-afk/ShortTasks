@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Artyom\\Studing\\PandaDoc\\Courses\\Tasks\\ShortTasks\\2906\\StartForOOP\\StartForOOP\\StartForOOP.csproj": {}
+    "E:\\Artyom\\Studing\\TMS\\ShortTasks\\2906\\StartForOOP\\StartForOOP\\StartForOOP.csproj": {}
   },
   "projects": {
-    "D:\\Artyom\\Studing\\PandaDoc\\Courses\\Tasks\\ShortTasks\\2906\\StartForOOP\\StartForOOP\\StartForOOP.csproj": {
+    "E:\\Artyom\\Studing\\TMS\\ShortTasks\\2906\\StartForOOP\\StartForOOP\\StartForOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Artyom\\Studing\\PandaDoc\\Courses\\Tasks\\ShortTasks\\2906\\StartForOOP\\StartForOOP\\StartForOOP.csproj",
+        "projectUniqueName": "E:\\Artyom\\Studing\\TMS\\ShortTasks\\2906\\StartForOOP\\StartForOOP\\StartForOOP.csproj",
         "projectName": "StartForOOP",
-        "projectPath": "D:\\Artyom\\Studing\\PandaDoc\\Courses\\Tasks\\ShortTasks\\2906\\StartForOOP\\StartForOOP\\StartForOOP.csproj",
+        "projectPath": "E:\\Artyom\\Studing\\TMS\\ShortTasks\\2906\\StartForOOP\\StartForOOP\\StartForOOP.csproj",
         "packagesPath": "C:\\Users\\artem\\.nuget\\packages\\",
-        "outputPath": "D:\\Artyom\\Studing\\PandaDoc\\Courses\\Tasks\\ShortTasks\\2906\\StartForOOP\\StartForOOP\\obj\\",
+        "outputPath": "E:\\Artyom\\Studing\\TMS\\ShortTasks\\2906\\StartForOOP\\StartForOOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
